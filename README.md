@@ -1,5 +1,4 @@
 ﻿# CRUD-MERN-WebApp
-# MERN CRUD Web App  
 
 This is a **MERN (MongoDB, Express.js, React.js, Node.js) CRUD Web Application** that allows users to perform **Create, Read, Update, and Delete (CRUD)** operations. The project follows a structured **MVC (Model-View-Controller)** architecture and uses **RESTful API** for backend communication.
 
@@ -94,9 +93,4 @@ mern-crud-app/
 2. Create a new branch (`git checkout -b feature-name`)  
 3. Commit your changes (`git commit -m "Added feature"`)  
 4. Push to the branch (`git push origin feature-name`)  
-5. Open a Pull Request  
-
-## License  
-This project is licensed under the **MIT License**.  
-
-🚀 **Happy Coding!**
+5. Open a Pull Request 
